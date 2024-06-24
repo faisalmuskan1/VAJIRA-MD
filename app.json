@@ -2,7 +2,7 @@
   "name": "faisal-MD",
   "description": "faisal-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
   "logo": "https://telegra.ph/file/fb6b2e147c35baf2cdc00.jpg",
-  "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
+  "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "faisal-md"],
   "success_url": "/",
 
   "env": {
@@ -19,7 +19,7 @@
     "OWNER_NUMBER": {
             "description": "Put here your number without +",
             "required": true,
-            "value": "947xxxxxxxx"
+            "value": "92303xxxxxxxx"
         },
     "POSTGRESQL_URL": {
             "description": "Put here postgresql url",
