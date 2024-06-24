@@ -21,7 +21,7 @@
 
 ## JOIN MY WHATSAPP CHANNEL
 
-[![vajira](https://telegra.ph/file/fb6b2e147c35baf2cdc00.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+[![vajira](https://telegra.ph/file/fb6b2e147c35baf2cdc00.jpg)](https://chat.whatsapp.com/JzGoCWbo61F1hAKL6UG07t)
 
 
 
@@ -33,7 +33,7 @@
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/fb6b2e147c35baf2cdc00.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+[![vajira](https://telegra.ph/file/fb6b2e147c35baf2cdc00.jpg)](https://chat.whatsapp.com/KiCBKTXpynh6hHeJvXDcxC)
 
 ## MY YT CHANNEL
 
@@ -53,10 +53,10 @@
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
 
-<a href="https://paircode0-11304b2f69df.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://paircode0-11304b2f69df.herokuapp.com/"><img src="https://telegra.ph/file/34e2f4f14cbb7f84307e9.jpg" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 
-<a href="https://paircode02-fc19c7206fd1.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://paircode02-fc19c7206fd1.herokuapp.com/"><img src="lllfllll" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 <hr>
 
@@ -72,7 +72,7 @@
 
 
 
-## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
+## HOW TO DEPLOY 🧚 ꧁࿇𝐅𝐚𝐢𝐬𝐚𝐥 𝐮𝐝𝐚𝐬࿇꧂ - ＭＤ 🧚
 
 </div>
 
